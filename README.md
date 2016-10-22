@@ -1,4 +1,4 @@
-# Which-of-R-or-Python-language-is-the-most-used-famous-for-Data-Science-in-Ireland-
+# Which of R or Python meetup is the most used famous for Data Science in Ireland
 In that study, we collected data from Twitter and the Meetup application in order to assess which of R or Python is the most used programming language for Data Science in Ireland. 
 <ol>
 <li>For data  collection: we used Tweepy and the Meetup API.</li> 
